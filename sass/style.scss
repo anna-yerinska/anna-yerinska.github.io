@@ -315,6 +315,10 @@ body
 {
     background: #000;  
 }
+.icon-wrap
+{
+    display: inline-block;
+}
 .soc-icon,
 .icon
 {
@@ -343,7 +347,7 @@ body
     font-style: normal;
 }
 /* *********************@media **********************/
-@media (max-width: 250px) and (min-width: 760px){
+@media (max-width: 760px){
     .title
     {
         top: 30%;
