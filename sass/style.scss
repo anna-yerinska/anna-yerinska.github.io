@@ -326,13 +326,10 @@ body
     padding: 1rem 1rem;
     transition: color 0.3s ease;
 }
-.icon
-{
-    padding-top: 3rem;
-}
+.icon,
 .soc-icon
 {
-    padding-bottom: 3rem;
+    padding-top: 3rem;
 }
 .soc-icon:hover,
 .icon:hover
@@ -363,6 +360,10 @@ body
     .icon
     {
         padding-top: 1rem;
+    }
+    .soc-icon
+    {
+        padding-top: 1rem;    
     }
     .icon-wrap
     {
