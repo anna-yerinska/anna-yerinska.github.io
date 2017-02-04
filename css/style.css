@@ -353,7 +353,8 @@ body {
     top: 30%; }
 
   .skills-cat {
-    margin-left: 2rem; }
+    margin-left: 2rem;
+    margin-top: 1rem; }
 
   .skills-name {
     margin-left: 2rem; }
@@ -367,6 +368,12 @@ body {
 
   .icon-wrap {
     display: block;
-    margin: 0 auto; } }
+    margin: 0 auto; }
+
+  .contacts-input {
+    width: 60%; }
+
+  .contacts-input {
+    width: 75%; } }
 
 /*# sourceMappingURL=style.css.map */
