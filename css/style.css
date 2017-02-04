@@ -342,4 +342,19 @@ body {
   font-weight: 300;
   font-style: normal; }
 
+/* *********************@media **********************/
+@media (max-width: 250px) and (min-width: 760px) {
+  .title {
+    top: 30%; }
+
+  .skills-cat {
+    margin-left: 2rem; }
+
+  .icon {
+    padding-top: 1rem; }
+
+  .icon-wrap {
+    display: block;
+    margin: 0 auto; } }
+
 /*# sourceMappingURL=style.css.map */
