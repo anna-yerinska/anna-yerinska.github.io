@@ -166,7 +166,9 @@ body {
   display: block;
   border-bottom: 1px solid #3b3b3b;
   padding-bottom: 0.5rem;
-  margin: 0 5rem 3rem 5rem;
+  margin-right: 5rem;
+  margin-left: 5rem;
+  margin-bottom: 3rem;
   position: relative; }
 
 .skills-name--1:before {
@@ -329,9 +331,11 @@ body {
   padding: 1rem 1rem;
   transition: color 0.3s ease; }
 
-.icon,
-.soc-icon {
+.icon, .soc-icon {
   padding-top: 3rem; }
+
+.soc-icon {
+  padding-bottom: 3rem; }
 
 .soc-icon:hover,
 .icon:hover {
@@ -358,7 +362,7 @@ body {
     padding-top: 1rem; }
 
   .soc-icon {
-    padding-top: 1rem; }
+    padding-bottom: 1rem; }
 
   .icon-wrap {
     display: block;
