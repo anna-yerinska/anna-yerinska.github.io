@@ -3,17 +3,16 @@ body {
   font-size: 100%; }
 
 .header-bg {
-  height: 40.5rem;
+  height: 37rem;
   background-image: url(../img/main-bg.jpg);
   overflow: hidden;
-  background-size: cover;
-  background-position: -5rem 0;
+  background-size: 100%;
   filter: grayscale(100%); }
 
 .title {
   position: absolute;
   z-index: 1;
-  top: 45%;
+  top: 30%;
   width: 100%; }
 
 .title-text, .prof {
